@@ -187,7 +187,7 @@ public class Eventreg extends JFrame{
 					if(rseult==0)
 					{
 						frame.setVisible(false);
-						JOptionPane.showMessageDialog(null,"Registered Successfully!!");
+						JOptionPane.showMessageDialog(null,"Registered Successfully!!!!!");
 						//new Submit().setVisible(false);
 						setVisible(false);
 						
